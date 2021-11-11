@@ -1,0 +1,24 @@
+LINUX OS
+Linux® is an open source operating system (OS). An operating system is the software that directly manages a system's hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work.
+WHY LINUX IS USED
+Linux is a Unix-like, open source and community-developed operating system (OS) for computers, servers, mainframes, mobile devices and embedded devices. It is supported on almost every major computer platform, including x86, ARM and SPARC, making it one of the most widely supported operating systems.
+FEATURES OF LINUX OS
+Multiuser capability: Multiple users can access the same system resources like memory, hard disk, etc. But they have to use different terminals to operate. Graphical User Interface (X Window system): Linux is command line based OS but it can be converted to GUI based by installing packages
+ADVANTAGES OF LINUS OS
+Open Source. One of the main advantages of Linux is that it is an open source operating system i.e. its source code is easily available for everyone. ...
+Security. ...
+Revive older computer systems. ...
+Software Updates. ...
+Customization. ...
+Various Distributions. ...
+Free to use (Low Cost) ...
+Large Community Support
+DISADVANTAGES OF LINUX OS
+No standard edition.
+Hard Learning Curve.
+Limited market share.
+Lack of proprietary software.
+Difficult to troubleshoot.
+Poor support for games.
+Unsupported Hardware.
+Lack of technical support.
